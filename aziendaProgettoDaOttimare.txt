@@ -1,0 +1,230 @@
+Avvio Impresa – RePhone S.r.l.s. (Simulazione Este, PD)
+
+1. Struttura societaria
+
+-   Forma giuridica scelta: S.r.l.s. (Società a responsabilità limitata
+    semplificata)
+-   Numero soci: 6
+-   Capitale sociale: 36.000 € (6.000 € a testa)
+-   Quota per socio: 16,6% ciascuno (pari a 6.000 €)
+
+------------------------------------------------------------------------
+
+2. Iter burocratico specifico (Este – PD)
+
+A. Costituzione della società
+
+1.  Atto costitutivo e statuto presso notaio (per S.r.l.s. atto standard
+    ridotto).
+    -   Notaio: circa 600 – 900 €
+    -   Imposta di registro + bolli: circa 400 – 600 €
+    -   PEC e firma digitale: circa 50 – 100 € a socio
+
+B. Iscrizione Registro Imprese / ComUnica
+
+-   ComUnica: pratica telematica unica che iscrive la società al
+    Registro Imprese di Padova, apre Partita IVA, INPS, INAIL.
+-   Costo diritti CCIAA: 200 – 300 €
+-   Diritto camerale annuale: circa 200 €
+
+C. SUAP e SCIA Comune di Este
+
+-   Presentazione della SCIA tramite portale SUAP (Impresa in un
+    giorno).
+-   Documenti: planimetria locali, descrizione attività (commercio +
+    riparazione), autodichiarazioni sicurezza locali.
+-   Costi: 0 – 100 € (diritti segreteria comunali).
+
+D. Partita IVA e Codici ATECO
+
+-   Apertura contestuale con ComUnica.
+-   Codici suggeriti:
+    -   47.42.00 commercio telefoni
+    -   95.12.00 riparazione telefoni
+-   Costo: incluso nelle pratiche (no spese extra).
+
+E. INPS e INAIL
+
+-   Iscrizione automatica via ComUnica.
+-   INPS gestione commercianti: contributi minimi annuali circa 3.800 €
+    a socio lavoratore.
+-   INAIL: premio base variabile (stimato 150 – 300 € annui per attività
+    iniziale).
+
+F. Camera di Commercio di Padova
+
+-   Tutte le pratiche societarie depositate lì.
+-   Servizi disponibili: microcredito, orientamento, sportelli start-up.
+
+------------------------------------------------------------------------
+
+3. Obblighi legali specifici per i telefoni usati
+
+1.  Regime IVA del margine: IVA solo sul margine (prezzo vendita –
+    prezzo acquisto).
+2.  Registro operazioni usato: tenere registro giornaliero con dati
+    venditore, documento, IMEI, prezzo, data.
+3.  Modulo di cessione: dichiarazione scritta e firmata dal venditore
+    con dati + documento.
+4.  RAEE: contratti con operatori autorizzati per smaltire telefoni non
+    rivendibili.
+5.  Garanzia: minimo 12 mesi per telefoni usati venduti.
+6.  Privacy/GDPR: cancellazione sicura dati e account iCloud/Google
+    prima della rivendita.
+
+------------------------------------------------------------------------
+
+4. Investimenti iniziali (36.000 € totali)
+
+A. Costi burocratici e apertura
+
+-   Notaio e imposte: 1.200 €
+-   CCIAA e SCIA Comune Este: 400 €
+-   PEC e firme digitali: 600 €
+-   Commercialista (primo anno): 1.500 €
+    Totale burocratico: 3.700 €
+
+B. Struttura e attrezzature
+
+-   Affitto locale (6 mesi anticipo + cauzione): 6.000 €
+-   Ristrutturazione minima / arredo: 4.000 €
+-   Attrezzatura laboratorio (kit riparazione, microscopio, strumenti
+    diagnostici): 5.000 €
+-   Computer gestionale + software contabilità: 2.000 €
+    Totale struttura: 17.000 €
+
+C. Primo stock merci
+
+-   Acquisto telefoni usati/rottami per rigenerazione: 10.000 €
+
+D. Marketing e sito web
+
+-   Creazione e-commerce + pubblicità social: 3.000 €
+
+E. Fondo cassa e imprevisti
+
+-   Riserva di liquidità per spese correnti e scorte: 2.300 €
+
+------------------------------------------------------------------------
+
+5. Totale investimenti iniziali
+
+-   Burocrazia: 3.700 €
+-   Struttura: 17.000 €
+-   Merci iniziali: 10.000 €
+-   Marketing: 3.000 €
+-   Fondo cassa: 2.300 €
+
+Totale = 36.000 € (6.000 € a testa)
+Costo burocratico=29.300€ 
+------------------------------------------------------------------------
+
+6. Prossimi passi operativi
+
+1.  Contattare notaio per atto costitutivo e invio ComUnica.
+2.  Attivare PEC e firme digitali.
+3.  Individuare sede operativa a Este e predisporre documenti per SCIA.
+4.  Redigere procedure interne (registro usato, modulo di cessione, wipe
+    dati).
+5.  Attivare contratto RAEE con operatore autorizzato.
+6.  Predisporre piano marketing e apertura e-commerce.
+--------------------------------------------------------------------
+
+7. Finanziatori 
+
+1. Bando Nuove Imprese – Regione Veneto
+Cosa copre: spese di avvio (arredi, attrezzature, ristrutturazione, marketing, consulenze).
+Contributo: circa 30% a fondo perduto delle spese ammissibili.
+Importo per voi: sulle vostre spese iniziali (attrezzatura 5.000 €, arredi 4.000 €, marketing 3.000 € = 12.000 €), recuperereste circa 3.600 €.
+Pro: semplice, diretto, perfettamente in linea con un’attività come la vostra.
+
+2. Contributi imprese giovanili – Regione Veneto (se almeno la metà dei soci < 35 anni)
+Cosa copre: stessi costi del bando precedente, ma mirato a società composte da giovani.
+Contributo: fino al 30% a fondo perduto, massimo circa 51.000 € di spesa.
+Importo per voi: simile al caso sopra → potete recuperare altri 3.000–4.000 €.
+Pro: se rispettate il requisito anagrafico, potete cumularlo/alternarlo.
+
+3. Economia Circolare (Invitalia / MIMIT, bandi nazionali)
+Cosa copre: progetti che riducono rifiuti RAEE, riciclo e rigenerazione.
+Contributo: fino al 50% tra fondo perduto e finanziamento agevolato.
+Importo per voi: ipotizzando che una parte del vostro piano (10.000 € per stock usato + 5.000 € strumenti di laboratorio) venga ammessa, potreste ottenere 7.500 € di contributo.
+Nota: bandi più complessi da presentare, ma il vostro business model (recupero, rigenerazione, riduzione rifiuti) è perfetto.
+
+-----------------------------------------------------------
+
+
+8. Prezzi
+
+1. Spese iniziali previste
+
+* **Burocrazia (notaio, CCIAA, PEC, commercialista 1° anno):** 3.700 €
+* **Locale (affitto + cauzione 6 mesi):** 6.000 €
+* **Ristrutturazione + arredi minimi:** 4.000 €
+* **Attrezzature laboratorio (kit riparazioni, microscopio, strumenti):** 5.000 €
+* **PC + software gestionale / contabilità:** 2.000 €
+* **Primo stock telefoni usati (rigenerabili):** 10.000 €
+* **Marketing + sito web + social:** 3.000 €
+* **Fondo cassa per imprevisti:** 2.300 €
+
+**Totale lordo spese = 36.000 €**
+
+---
+
+### 2. Incentivi Regione Veneto (realistici per voi)
+
+* **Nuove Imprese Veneto** (30% fondo perduto su spese attrezzature, arredi, marketing):
+
+  * (5.000 + 4.000 + 3.000 = 12.000 € ammissibili) → **3.600 € recuperati**
+
+* **Impresa giovanile** (se soci < 35 anni):
+
+  * Stesse voci ammissibili, fondo perduto simile: altri **~3.000 € recuperati**
+
+👉 Totale potenziale incentivi regionali: **6.600 €**
+
+---
+
+3. Costi effettivi dopo incentivi
+
+* **Burocrazia:** 3.700 € (non agevolata)
+* **Affitto sede:** 6.000 € (non agevolato)
+* **Ristrutturazione + arredi:** 4.000 – 1.200 € = **2.800 €**
+* **Attrezzature laboratorio:** 5.000 – 1.500 € = **3.500 €**
+* **PC + software:** 2.000 € (di solito non coperto dai bandi base)
+* **Stock telefoni usati:** 10.000 € (non agevolato direttamente, ma potenzialmente finanziabile con bandi “economia circolare” → ipotetici -5.000 €, se accettati)
+* **Marketing + sito web:** 3.000 – 900 € = **2.100 €**
+* **Fondo cassa imprevisti:** 2.300 €
+
+---
+
+### 4. Quadro finale (senza bandi nazionali, solo Regione Veneto)
+
+* Totale lordo: 36.000 €
+* Incentivi regionali: **~6.600 €**
+* **Costo netto effettivo: 29.400 €**
+
+👉 Con i vostri 36.000 €, vi resterebbe un margine di **6.600 € di liquidità libera** in cassa.
+
+---
+
+### 5. Quadro finale (se ottenete anche un bando nazionale “economia circolare”)
+
+* Totale lordo: 36.000 €
+* Incentivi regionali: ~6.600 €
+* Incentivi nazionali (ipotetici): ~5.000 €
+* **Costo netto effettivo: 24.400 €**
+
+👉 Con i vostri 36.000 €, vi resterebbero **11.600 € di cassa** → che potete reinvestire in più stock o marketing.
+
+---
+
+📌 Nota importante: visto che non avete ancora una sede, potete **partire riducendo l’affitto** (es. solo online + magazzino piccolo → -6.000 €). Questo abbassa ancora di più il fabbisogno iniziale.
+
+---
+
+Vuoi che ti metta tutto questo in **tabella Excel chiara (colonne: spesa lorda, incentivi, costo netto)** così potete vedere subito dove risparmiate di più e valutare lo scenario con o senza sede fisica?
+
+
+
+
+**********************************************************************************************************************DA SISTEMARE
